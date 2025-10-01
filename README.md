@@ -1,4 +1,4 @@
-# shaazprestige
+# shaazp
 This is my first Git reposatory
 <br>
 Author -Shaaz (prestige)
